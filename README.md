@@ -58,7 +58,3 @@ docs/
 - Authentication
 - SIEM integration
 
-## Resume Highlights
-
-Built a modular cybersecurity monitoring dashboard using React and FastAPI with interactive visualizations,
-dummy threat scoring and REST APIs suitable for portfolio demonstration.
